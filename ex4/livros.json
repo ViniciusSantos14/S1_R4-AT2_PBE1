@@ -1,0 +1,18 @@
+[
+    { "id": 1, 
+    "nome": "Diario de um Banana", 
+    "autor": "Jeff Kinney" 
+},
+
+    { "id": 2,
+     "nome": "Vitin, o pecinha.",
+    "autor": "Vinicius" 
+    
+    },
+    
+      { "id": 3,
+     "nome": "Henricadas, o IMPERADOR",
+      "autor": "Joao Vitor" 
+    }
+    
+  ]
